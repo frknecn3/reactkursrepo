@@ -1,5 +1,5 @@
-<h1> React Kursu Ilk Reposu </h1>
+<h1> React Course First Repo</h1>
 
-İsveç Kralı'nın JS React eğitim kursunda oluşturduğum ilk github reposu.
+This is the first repository I created in the isveckrali's JS React Course.
 
-Teşekkürler.
+Thank you.
